@@ -97,7 +97,7 @@ li {
     border-radius: 5px;
 }
 
-.completed {
+span.completed {
     text-decoration: line-through;
     color: gray;
 }
