@@ -46,6 +46,7 @@ addBtn.onclick = function () {
     const task = taskInput.value.trim();
 
     if (task === "") {
+        alert("Please enter a task.");
         return;
     }
 
